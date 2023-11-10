@@ -24,7 +24,7 @@
               <div id="row_wise" class="row mb-5">
                   <div class="col-lg-4 col-md-6 col-sm-12 col-xs-12" id="slide1">
                     <div>
-                        <img id="right_click" src="src/assets/right.png"/>
+                        <img id="right_click" src="/src/assets/right.png"/>
                     </div>
                     <div>
                       <p>
@@ -34,7 +34,7 @@
                   </div>
                   <div class="col-lg-4 col-md-6 col-sm-12 col-xs-12" id="slide1" >
                     <div>
-                        <img id="right_click" src="src/assets/right.png"/>
+                        <img id="right_click" src="/src/assets/right.png"/>
                     </div>
                     <div>
                       <p>
@@ -44,7 +44,7 @@
                   </div>
                   <div class="col-lg-4 col-md-6 col-sm-12 col-xs-12" id="slide1">
                     <div>
-                        <img id="right_click" src="src/assets/right.png"/>
+                        <img id="right_click" src="/src/assets/right.png"/>
                     </div>
                     <div>
                       <p>
@@ -54,7 +54,7 @@
                   </div>
                   <div class="col-lg-4 col-md-6 col-sm-12 col-xs-12" id="slide1">
                     <div>
-                        <img id="right_click" src="src/assets/right.png"/>
+                        <img id="right_click" src="/src/assets/right.png"/>
                     </div>
                     <div>
                       <p>
@@ -64,7 +64,7 @@
                   </div>
                   <div class="col-lg-4 col-md-6 col-sm-12 col-xs-12" id="slide1">
                     <div>
-                        <img id="right_click" src="src/assets/right.png"/>
+                        <img id="right_click" src="/src/assets/right.png"/>
                     </div>
                     <div>
                       <p>
@@ -74,7 +74,7 @@
                   </div>
                   <div class="col-lg-4 col-md-6 col-sm-12 col-xs-12" id="slide1">
                     <div>
-                        <img id="right_click" src="src/assets/right.png"/>
+                        <img id="right_click" src="/src/assets/right.png"/>
                     </div>
                     <div>
                       <p>
@@ -94,22 +94,22 @@
             <div class="container mt-5">
               <div id="row_wise" class="row pt-4 ">
               <div id="hello_3" class="col-lg-4 col-md-6 col-sm-12 col-xs-12 mt-3 mb-1">
-                     <img class="img-fluid" id="for_cover" src="src/assets/pexels-phot.jpeg"  style="width: 353px; height: 352px;"/>
+                     <img class="img-fluid" id="for_cover" src="/src/assets/pexels-phot.jpeg"  style="width: 353px; height: 352px;"/>
               </div>
               <div id="hello_3" class="col-lg-4 col-md-6 col-sm-12 col-xs-12 mt-3 mb-1">
-                     <img class="img-fluid" id="for_cover" src="src/assets/pexels-phot3.jpeg"  style="width: 353px; height: 352px;"/>
+                     <img class="img-fluid" id="for_cover" src="/src/assets/pexels-phot3.jpeg"  style="width: 353px; height: 352px;"/>
               </div>
               <div id="hello_3" class="col-lg-4 col-md-6 col-sm-12 col-xs-12 mt-3 mb-1">
-                     <img class="img-fluid" id="for_cover" src="src/assets/pexels-phot2.jpeg"  style="width: 353px; height: 352px;"/>
+                     <img class="img-fluid" id="for_cover" src="/src/assets/pexels-phot2.jpeg"  style="width: 353px; height: 352px;"/>
               </div>
               <div id="hello_3" class="col-lg-4 col-md-6 col-sm-12col-xs-12 mt-3 mb-1">
-                     <img class="img-fluid" id="for_cover" src="src/assets/pexels-phot4.jpeg"  style="width: 353px; height: 352px;"/>
+                     <img class="img-fluid" id="for_cover" src="/src/assets/pexels-phot4.jpeg"  style="width: 353px; height: 352px;"/>
               </div>
               <div id="hello_3" class="col-lg-4 col-md-6 col-sm-12 col-xs-12 mt-3 mb-1">
-                     <img class="img-fluid" id="for_cover" src="src/assets/pexels-phot5.jpeg"  style="width: 353px; height: 352px;"/>
+                     <img class="img-fluid" id="for_cover" src="/src/assets/pexels-phot5.jpeg"  style="width: 353px; height: 352px;"/>
               </div>
               <div id="hello_3" class="col-lg-4 col-md-6 col-sm-12 col-xs-12 mt-3 mb-1">
-                     <img class="img-fluid" id="for_cover" src="src/assets/pexels-phot6.jpeg"  style="width: 353px; height: 352px;"/>
+                     <img class="img-fluid" id="for_cover" src="/src/assets/pexels-phot6.jpeg"  style="width: 353px; height: 352px;"/>
               </div>
               </div>
               <div class="col-lg-4 col-md-4 col-sm-6 col-xs-6 d-grid gap-2  mx-auto justify-content-center pt-4 pb-2">
@@ -125,7 +125,7 @@
             <div id="row_wise" class="row mt-5 mx-4">
               <div id="profiles" class="col-lg-4 mt-4 mb-5">
                 <div>
-                     <img src="src/assets/2.jpg"  style="width: 280px; height: 280px;"/>
+                     <img src="/src/assets/2.jpg"  style="width: 280px; height: 280px;"/>
                   </div>
                   <div><h5 class="mt-4">Mary Brown</h5></div>
                   <div class="mb-3 mt-2"> <h6>creative leader</h6></div>
@@ -140,7 +140,7 @@
               </div>
               <div id="profiles" class="col-lg-4 mt-4 mb-5">
                 <div>
-                     <img src="src/assets/3.jpg"  style="width: 280px; height: 280px;"/>
+                     <img src="/src/assets/3.jpg"  style="width: 280px; height: 280px;"/>
                   </div>
                   <div><h5 class="mt-4">Bob Greenfield</h5></div>
                   <div class="mb-3 mt-2"> <h6>programming guru</h6></div>
@@ -155,7 +155,7 @@
               </div>
               <div id="profiles" class="col-lg-4 mt-4 mb-5">
                 <div>
-                     <img src="src/assets/4.jpg"  style="width: 280px; height: 280px;"/>
+                     <img src="/src/assets/4.jpg"  style="width: 280px; height: 280px;"/>
                   </div>
                   <div><h5 class="mt-4">Ann Richmond</h5></div>
                   <div class="mb-3 mt-2"> <h6>sales manager</h6></div>
@@ -238,11 +238,11 @@
               </div>
               <div class="sixth_section_icon_img_div mt-4">
                 <div>
-                  <img class="mt-1" src="src/assets/right_click.png"  style="width: 16px; height: 16px;"/>
+                  <img class="mt-1" src="/src/assets/right_click.png"  style="width: 16px; height: 16px;"/>
                   <p>Lorem ipsum dolor sit amet, consectetur</p>
                 </div>
                 <div>
-                  <img class="mt-1" src="src/assets/right_click.png"  style="width: 16px; height: 16px;"/>
+                  <img class="mt-1" src="/src/assets/right_click.png"  style="width: 16px; height: 16px;"/>
                   <p>Elit, sed do eiusmod tempor incididun</p>
               </div>  
               </div>
@@ -256,7 +256,7 @@
           </div>
           <div class="col-lg-6 col-md-12 col-sm-12 col-xs-12 " id="sixth_section_2ndcol_lg">
               <div class="sixth_section_2ndcol_lg_2ndimg">
-              <img class="img-fluid" src="src/assets/phone_call.png" style="width: 80px; height: 80px;"/>
+              <img class="img-fluid" src="/src/assets/phone_call.png" style="width: 80px; height: 80px;"/>
             </div>
             <div>
               <img class="img-fluid mt-5" src="https://images01.nicepagecdn.com/a1389d7bc73adea1e1c1fb7e/8f93fb525fca5a7d86a20ba0/black-white-exterior-building.jpg" style="width: 550px; height: 350px;"/>
@@ -264,7 +264,7 @@
           </div>
             <div class="col-lg-6 col-md-12 col-sm-12 col-xs-12 " id="sixth_section_2ndcol_lg_2nd">
               <div class="sixth_section_2ndcol_lg_2ndimg_ig">
-              <img class="img-fluid" src="src/assets/phone_call.png" style="width: 80px; height: 80px;"/>
+              <img class="img-fluid" src="/src/assets/phone_call.png" style="width: 80px; height: 80px;"/>
             </div>
             <div class="image_section_6_second_row">
               <img class="img-fluid mt-3 " src="https://images01.nicepagecdn.com/a1389d7bc73adea1e1c1fb7e/fd44305e8d7e5cb4adf5f7cd/low-angle-shot-creative-modern-building-with-outstanding-architectural-twists.jpg" style="width: 550px; height: 350px;"/>
@@ -307,7 +307,7 @@
               <div  class="row col-lg-6 col-md-6 mt-5" id="section7_row" >
               <div class="section7_1div">
                 <div class="section7_icon mt-2" >
-                  <img src="src/assets/Screenshot.png"/>
+                  <img src="/src/assets/Screenshot.png"/>
                 </div>
                 <div class="h5_p mx-4 mt-3 " id="section7_1strow_2ndcol_h5_p">
                   <h5>Sample Headline</h5>
@@ -317,7 +317,7 @@
               
               <div class="section7_1div pt-4">
                 <div class="section7_icon mt-2" >
-                  <img src="src/assets/Screenshot2.png"/>
+                  <img src="/src/assets/Screenshot2.png"/>
                 </div>
                 <div class="h5_p mx-4 mt-3 " id="section7_1strow_2ndcol_h5_p">
                   <h5>Sample Headline</h5>
@@ -326,7 +326,7 @@
               </div>
               <div class="section7_1div pt-4 pb-4">
                 <div class="section7_icon mt-2" >
-                  <img src="src/assets/Screenshot3.png"/>
+                  <img src="/src/assets/Screenshot3.png"/>
                 </div>
                 <div class="h5_p mx-4 mt-3 mb-5 pb-5" id="section7_1strow_2ndcol_h5_p">
                   <h5>Sample Headline</h5>
@@ -347,7 +347,7 @@
           <div class="card justify-content-center pt-4" >
             <div class=" top_the_image">
               <div class=" top_the_image_2div">
-                <img src="src/assets/mimi.jpg" style="width: 180px;height: 180px;" />
+                <img src="/src/assets/mimi.jpg" style="width: 180px;height: 180px;" />
               </div>
               <div>
                 <p>
@@ -355,7 +355,7 @@
                 </p>
               </div>
               <div class="pt-3">
-                <img src="src/assets/quotes.png" style="width: 26%;height: 26%;" />
+                <img src="/src/assets/quotes.png" style="width: 26%;height: 26%;" />
               </div>
             </div>
           </div>

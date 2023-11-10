@@ -224,7 +224,7 @@ div#second_sec_row {
 
 /* First Section */
 .first_section{
-  background-image: linear-gradient(0deg, rgba(0,0,0,0.4), rgba(0,0,0,0.4)), url("src/assets/about_background.jpeg");
+  background-image: linear-gradient(0deg, rgba(0,0,0,0.4), rgba(0,0,0,0.4)), url("/////src/assets/about_background.jpeg");
   background-position: 50% 50%;
   background-size: contain;
   min-height: 670px;

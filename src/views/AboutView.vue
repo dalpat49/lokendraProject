@@ -36,7 +36,7 @@
                 <div class="col-lg-6 col-md-6 col-sm-12 col-xs-12 py-3" id="second_section_row">
                     <div class="pb-4" id="second_section_div1">
                         <div class="second_section_row_image">
-                            <img  src="src/assets/phone_call.png" style="width: 55px; height: 55px;"/>
+                            <img  src="/src/assets/phone_call.png" style="width: 55px; height: 55px;"/>
                         </div>
                         <div class="second_section_row_h5_p mt-4">
                             <div class="second_section_row_h5 pt-2">
@@ -53,7 +53,7 @@
                     </div>
                     <div class="pb-4" id="second_section_div1">
                         <div class="second_section_row_image">
-                            <img  src="src/assets/settings.png" style="width: 55px; height: 55px;"/>
+                            <img  src="/src/assets/settings.png" style="width: 55px; height: 55px;"/>
                         </div>
                         <div class="second_section_row_h5_p mt-4">
                             <div class="second_section_row_h5 pt-2">
@@ -70,7 +70,7 @@
                     </div>
                     <div class="pb-4" id="second_section_div1">
                         <div class="second_section_row_image">
-                            <img  src="src/assets/ringing.png" style="width: 55px; height: 55px;"/>
+                            <img  src="/src/assets/ringing.png" style="width: 55px; height: 55px;"/>
                         </div>
                         <div class="second_section_row_h5_p mt-4">
                             <div class="second_section_row_h5 pt-2">
@@ -98,7 +98,7 @@
                     <div class="col-lg-4 col-md-6 col-sm-12 col-xs-12 " id="third_card_section">
                         <div class="card mt-4 rounded-0" id="third_section_card">
                             <div class="third_section_card_img mt-4">
-                                <img  src="src/assets/phone_call.png" style="width:50px; height: 50px;"/>
+                                <img  src="/src/assets/phone_call.png" style="width:50px; height: 50px;"/>
                             </div>
                             <div class="third_section_card_h6">
                                 <h6>
@@ -115,7 +115,7 @@
                     <div class="col-lg-4 col-md-6 col-sm-12 col-xs-12" id="third_card_section">
                         <div class="card mt-4 rounded-0" id="third_section_card">
                             <div class="third_section_card_img mt-4">
-                                <img  src="src/assets/phone_call.png" style="width:50px; height: 50px;"/>
+                                <img  src="/src/assets/phone_call.png" style="width:50px; height: 50px;"/>
                             </div>
                             <div class="third_section_card_h6">
                                 <h6>
@@ -132,7 +132,7 @@
                     <div class="col-lg-4 col-md-6 col-sm-12 col-xs-12" id="third_card_section">
                         <div class="card mt-4 rounded-0" id="third_section_card">
                             <div class="third_section_card_img mt-4">
-                                <img  src="src/assets/phone_call.png" style="width:50px; height: 50px;"/>
+                                <img  src="/src/assets/phone_call.png" style="width:50px; height: 50px;"/>
                             </div>
                             <div class="third_section_card_h6">
                                 <h6>
@@ -174,7 +174,7 @@
                     <div class="col-lg-6 col-md-6 com-sm-12 col-xs-12" id="fourth_section_col-lg_2">
                         <div>
                             <div class="fourth_section_image">
-                                <img class="img-fluid" src="src/assets/person.png" style="width: 600px; height:620px;"/>
+                                <img class="img-fluid" src="/src/assets/person.png" style="width: 600px; height:620px;"/>
                             </div>
                         </div>
                     </div>
@@ -189,7 +189,7 @@
             <div class="row" id="fifth_section_row">
                 <div class="col-lg-6 col-md-12 col-sm-12 col-xs-12" id="fifth_section_row_col-lg-1" >
                         <div>
-                            <img class="img-fluid" src="src/assets/person2.png" style="width: 600px; height: 650px;"/>
+                            <img class="img-fluid" src="/src/assets/person2.png" style="width: 600px; height: 650px;"/>
                         </div>
                     </div>
                 <div class="col-lg-6 col-md-12 col-sm-12 col-xs-12 pt-5" id="fifth_section_row_col-lg-2" >
@@ -380,7 +380,7 @@ body{
 
 /* First Section */
 .first_section{
-  background-image: linear-gradient(0deg, rgba(0,0,0,0.4), rgba(0,0,0,0.4)), url("src/assets/about_background.jpeg");
+  background-image: linear-gradient(0deg, rgba(0,0,0,0.4), rgba(0,0,0,0.4)), url("/src/assets/about_background.jpeg");
   background-position: 50% 50%;
   background-size: contain;
   min-height: 670px;

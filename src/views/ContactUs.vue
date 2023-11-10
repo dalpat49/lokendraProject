@@ -51,7 +51,7 @@
               <div>
                 <div class="card border-0 rounded-0" id="detail_section_1st_card">
                   <div class="detail_section_1st_card_img">
-                  <img src="src/assets/running.png" style="width: 50px; height: 50px;"/>
+                  <img src="/src/assets/running.png" style="width: 50px; height: 50px;"/>
                 </div>
                   <div class="detail_section_1st_card_h5 pt-5">
                     <h5>About Club</h5>
@@ -66,7 +66,7 @@
               <div>
                 <div class="card border-0 rounded-0" id="detail_section_1st_card">
                   <div class="detail_section_1st_card_img">
-                  <img src="src/assets/call.png" style="width: 50px; height: 50px;"/>
+                  <img src="/src/assets/call.png" style="width: 50px; height: 50px;"/>
                 </div>
                   <div class="detail_section_1st_card_h5 pt-5">
                     <h5>Phone (Landline)</h5>
@@ -81,7 +81,7 @@
               <div>
                 <div class="card border-0 rounded-0" id="detail_section_1st_card">
                   <div class="detail_section_1st_card_img">
-                  <img src="src/assets/marker.png" style="width: 50px; height: 50px;"/>
+                  <img src="/src/assets/marker.png" style="width: 50px; height: 50px;"/>
                 </div>
                   <div class="detail_section_1st_card_h5 pt-5">
                     <h5>Our Office Location</h5>
