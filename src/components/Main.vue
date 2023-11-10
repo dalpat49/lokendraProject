@@ -22,10 +22,10 @@
     <div class="row" id="new_section_row">
       <div class="col-lg-4 col-md-4" id="new_section_col_lg_1st">
         <div class="new_section_col_lg_2nd_image mx-4 mt-5">
-        <img src="src/assets/phone_call.png" style="width: 50px; height: 50px;"/>
+        <img src="/src/assets/phone_call.png" style="width: 50px; height: 50px;"/>
       </div>
         <div class="new_section_col_lg_1st_image mx-4 mt-4">
-        <img  src="src/assets/mimi.jpg" style="width: 250px; height: 250px;"/>
+        <img  src="/src/assets/mimi.jpg" style="width: 250px; height: 250px;"/>
       </div>
       
     </div>
@@ -95,13 +95,13 @@ easy for you to drop off your vehicle 24/7.</h5>
             </div>
             <div class="footer_icons mt-3" >
               <div>
-                <img src="src/assets/instagram.png"/>
+                <img src="/src/assets/instagram.png"/>
               </div>
               <div>
-                <img src="src/assets/linkedin.png"/>
+                <img src="/src/assets/linkedin.png"/>
               </div>
               <div>
-                <img src="src/assets/facebook.png"/>
+                <img src="/src/assets/facebook.png"/>
               </div>
             </div>
         </div>
